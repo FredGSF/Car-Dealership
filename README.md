@@ -4,7 +4,8 @@
 - Tailwind CSS
   
 ### Backend:
-
+- Django
+  or
 - Node.js with Express.js
 - MongoDB or MySql or SqLite
 - FireBase
